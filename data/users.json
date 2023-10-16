@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "johndoe@gmail.com",
+    "password": "$2b$10$fg0CldlSVRrji3yD9z6gYuixsVERSNIFK2xPf3gL1laOxbHnvC4mi",
+    "created_at": 1697458585625
+  }
+]

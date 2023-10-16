@@ -1,0 +1,29 @@
+{
+  "name": "merax-backend-pro-entrance-exam",
+  "version": "1.0.0",
+  "description": "JWT Authentication",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "node --watch server.js"
+  },
+  "keywords": [
+    "node.js",
+    "jwt",
+    "authentication",
+    "express"
+  ],
+  "author": "zayniddindev",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.4",
+    "@types/express": "^4.17.19",
+    "@types/node": "^20.8.6"
+  }
+}
